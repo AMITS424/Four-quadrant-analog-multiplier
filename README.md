@@ -81,7 +81,7 @@ v4 net16 gnd! dc=1.8
 ![image](https://user-images.githubusercontent.com/99953169/154849104-9d096605-1d4b-41f3-a75c-ca79e9051597.png)
 
 # Results and Analysis
-Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated. After simulation the bandwidth the multiplier has 71.6 MHz bandwidth and power dissipation of 14.0300 µW. 
+Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated. After simulation it is concluded that the multiplier has bandwidth and power dissipation of 71.6 MHz  and 14.0300 µW respectively. 
 # References
 [1]	N. Kiatwarin, W. Ngamkham and W. Kiranon, “A Compact Low Voltage CMOS Four Quadrant Analog Multiplier”, ECTI International Conference,2007
 
