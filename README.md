@@ -12,7 +12,7 @@
      
      	[Frequency Response of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=2%2DFrequency%20Response%20of%20the%20multiplier)
      
-     	Power Dissipation of the multiplier
+     	[Power Dissipation of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=3%2DPower%20Dissipation%20of%20the%20multiplier)
      
      	Input noise of the multiplier
      
