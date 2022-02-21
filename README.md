@@ -72,7 +72,10 @@ v4 net16 gnd! dc=1.8
 # Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
 ![image](https://user-images.githubusercontent.com/99953169/154834767-c19d9b75-02fb-40d7-8baa-5962bcdeba93.png)
 
-# Simulation Result
+# Schematic for neuron activation function [5]
+![image](https://user-images.githubusercontent.com/99953169/154944774-dcfb1edc-8665-464e-88f4-00c739f6c5f3.png)
+
+# Simulation Result for the four quadrant Analog Multiplier
 # 1-Transient Analysis of the Multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154834864-29fbf296-64e6-4351-ad36-28464224c797.png)
 
@@ -88,6 +91,9 @@ v4 net16 gnd! dc=1.8
 # 5-Output noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
 
+# Simulation result for neuron activation function
+![image](https://user-images.githubusercontent.com/99953169/154945008-fe29ef07-2826-4bcf-a19f-d9380afadd6d.png)
+
 # Results and Analysis
 Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated. After simulation it is concluded that the multiplier has bandwidth and power dissipation of 71.6 MHz  and 14.0300 µW respectively. 
 # References
@@ -98,6 +104,6 @@ Two sinusoidal waves are given at the input of the multiplier. Each input having
 [3]	Alejandro Diaz-Sanchez, Juan Carlos Mateus-Ardila, Gregorio Zamora-Mejia, Alejandra Diaz-Armendariz, Jose Miguel Rocha-Perez, Luis Armando Moreno-Coria,” A four quadrant high-speed CMOS analog multiplier based on the flipped voltage follower cell” AEU - International Journal of Electronics and Communications,Volume 130, 2021. ISSN 1434-8411
 
 [4]	S. Satyanarayana, Y. Tsividis and H. P. Graf, "A reconfigurable analog VLSI neural network chip" in Advances in Neural Information Processing Systems 2, CA, San Mateo:Morgan Kaufmann, vol. 2, pp. 758-768, 1990.
-
+[5]	N.Chasta, S. Chouhan and Y. Kumar, “Analog VLSI Implementation of Neural Network Architecture for Signal Processing”,International Journal of VLSI Design & Comunication System, Vol.3, No.2, April 2012. 
 
 
