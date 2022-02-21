@@ -79,13 +79,13 @@ v4 net16 gnd! dc=1.8
 # 2-Frequency Response of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
 
-# 3-Power Dissipation
+# 3-Power Dissipation of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154849104-9d096605-1d4b-41f3-a75c-ca79e9051597.png)
 
-# 4-Input noise
+# 4-Input noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898540-967dbe30-2d64-42ab-9850-1376714d9572.png)
 
-# 5-Output noise
+# 5-Output noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
 
 # Results and Analysis
