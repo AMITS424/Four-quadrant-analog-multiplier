@@ -60,6 +60,7 @@ Thus, the analog multiplier is designed where the gain can be changed by changin
 
 
 # Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
+* The MOSFET model chosen is TT model from 28nm PDK. Aspect ratio(W/L) of pMOS is 0.03um/0.24um & for nMOS it is 0.03um/0.12um
 ![image](https://user-images.githubusercontent.com/99953169/154834742-fb7912ec-922e-4f1e-ab07-9029f0fe7248.png)
 
 # Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
