@@ -1,6 +1,23 @@
 # Introduction
 An analog multiplier is an important component for many signal processing algorithms, artificial neural network mapped into hardware. It has been proven that analog multipliers are used for application like neural network where we don’t require a very high level of accuracy. Analog multipliers provide high synapse density and high computational speed than a digital multiplier. A CMOS four quadrant analog multiplier[1] design is shown in this report. The designed circuit is simulated using 28nm CMOS process with 1.8 volt supply voltage. It is applicable for a wide range of applications like variable-gain amplifiers, peak detectors, modulators, phase detectors, artificial neural networks etc.
 
+# REFERENCE CIRCUIT DETAILS
+![image](https://user-images.githubusercontent.com/99953169/154965322-2d433055-cfe8-4427-aa94-4554680ad83e.png)
+Above figure shows a square rooting circuit, setting M3-M8 to be identical, the currents IC and ID are found to be
+Ic  =βp (V34+√(Ia/β p) )^2
+Id  =βp (V34+√(Ib/β p) )^2
+Where βp = µn Cox W/L
+It can be easily shown that
+Iout = I01-I02= 2V34 √ β p (√Ia -√Ib)
+
+The reference analog multiplier circuit is shown in the next section where the output voltage is given by
+Vout = V01 - V02  = R(I01-I02) 
+Substituting the values of I_O1 and I_O2  it can be derived that
+Vout = 2R√ β p β n V12 V34
+
+Thus, the analog multiplier is designed where the gain can be changed by changing resistance values and the dimensions of MOSFET
+
+
 # REFERENCE CIRCUIT
 ![image](https://user-images.githubusercontent.com/99953169/154834613-8453b693-053d-4557-ab17-f26a795fcdae.png)
 
