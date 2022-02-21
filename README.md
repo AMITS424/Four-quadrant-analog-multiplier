@@ -8,15 +8,6 @@
  * [Symbol of Four Quadrant Analog Multiplier based on square rooting circuit](#Symbol of Four Quadrant Analog Multiplier based on square rooting circuit)
  * [Schematic for neuron activation function [5]](#Schematic for neuron activation function [5])
  * [Simulation Result for the four quadrant Analog Multiplier](#Simulation Result for the four quadrant Analog Multiplier)
- *  	Transient Analysis of the Multiplier
-
-    	Frequency Response of the multiplier
-
-    	Power Dissipation of the multiplier
-
-    	Input noise of the multiplier
-
-    	Output noise of the multiplier
  * [Simulation result for neuron activation function](#Simulation result for neuron activation function)
  * [Results and Analysis](#Results and Analysis)
  * [References](#References)
