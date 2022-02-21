@@ -6,7 +6,7 @@
  * [Reference circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=dimensions%20of%20MOSFET-,Reference%20circuit,-Tools%20used)
  * [Tools Used](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=Reference%20circuit-,Tools%20used,-%E2%80%A2%20Synopsis%20custom%20compiler)
  * [Schematic of Four Quadrant Analog Multiplier based on square rooting circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=custom%20compiler%20tool-,Schematic%20of%20Four%20Quadrant%20Analog%20Multiplier%20based%20on%20square%20rooting%20circuit,-The%20MOSFET%20model)
- * [Symbol of Four Quadrant Analog Multiplier based on square rooting circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=is%200.03um/0.12um-,Symbol%20of%20Four%20Quadrant%20Analog%20Multiplier%20based%20on%20square%20rooting%20circuit,-Schematic%20for%20neuron)
+ * [Symbol of Four Quadrant Analog Multiplier based on square rooting circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=circuit%20is%2010-,Symbol%20of%20Four%20Quadrant%20Analog%20Multiplier%20based%20on%20square%20rooting%20circuit,-Schematic%20for%20neuron)
  * [Schematic for neuron activation function [5]](https://github.com/AMITS424/Four-quadrant-analog-multiplier#schematic-for-neuron-activation-function-5)
  * [Simulation Result for the four quadrant Analog Multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=activation%20function%20%5B5%5D-,Simulation%20Result%20for%20the%20four%20quadrant%20Analog%20Multiplier,-1%2DTransient%20Analysis)
  
