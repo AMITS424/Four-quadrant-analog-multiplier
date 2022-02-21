@@ -75,8 +75,10 @@ v4 net16 gnd! dc=1.8
 # Simulation Result
 # 1-Transient Analysis of the Multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154834864-29fbf296-64e6-4351-ad36-28464224c797.png)
+
 # 2-Frequency Response of the multiplier
-![image](https://user-images.githubusercontent.com/99953169/154848971-06b6cc38-8008-4d83-92b0-b6b83464d502.png)
+![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
+
 # 3-Power Dissipation
 ![image](https://user-images.githubusercontent.com/99953169/154849104-9d096605-1d4b-41f3-a75c-ca79e9051597.png)
 
