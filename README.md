@@ -2,11 +2,13 @@
 
 •	Introduction
 
-•	REFERENCE CIRCUIT DETAILS
+•	Reference circuit details
 
-•	REFERENCE CIRCUIT
+•	Reference circuit
 
-•	NETLIST
+•	Synopsis custom compiler tool 
+
+•	Netlist
 
 •	Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
 
@@ -25,7 +27,7 @@
 # Introduction
 An analog multiplier is an important component for many signal processing algorithms, artificial neural network mapped into hardware. It has been proven that analog multipliers are used for application like neural network where we don’t require a very high level of accuracy. Analog multipliers provide high synapse density and high computational speed than a digital multiplier. A CMOS four quadrant analog multiplier[1] design is shown in this report. The designed circuit is simulated using 28nm CMOS process with 1.8 volt supply voltage. It is applicable for a wide range of applications like variable-gain amplifiers, peak detectors, modulators, phase detectors, artificial neural networks etc.
 
-# REFERENCE CIRCUIT DETAILS
+# Reference circuit details
 ![image](https://user-images.githubusercontent.com/99953169/154965322-2d433055-cfe8-4427-aa94-4554680ad83e.png)
 
 Above figure shows a square rooting circuit, setting M3-M8 to be identical, the currents IC and ID are found to be
@@ -51,10 +53,13 @@ Vout = 2R√ β p β n V12 V34
 Thus, the analog multiplier is designed where the gain can be changed by changing resistance values and the dimensions of MOSFET
 
 
-# REFERENCE CIRCUIT
+# Reference circuit
 ![image](https://user-images.githubusercontent.com/99953169/154834613-8453b693-053d-4557-ab17-f26a795fcdae.png)
 
-# NETLIST
+# Tools used
+•	Synopsis custom compiler tool 
+
+# Netlist
 ![image](https://user-images.githubusercontent.com/99953169/154834653-b53ced23-fd79-44a3-abed-89a147e979c2.png)
 
 *  Generated for: PrimeSim
