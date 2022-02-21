@@ -7,6 +7,7 @@
  * Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
  * Schematic for neuron activation function [5]
  * Simulation Result for the four quadrant Analog Multiplier
+ 
      	Transient Analysis of the Multiplier
      
      	Frequency Response of the multiplier
