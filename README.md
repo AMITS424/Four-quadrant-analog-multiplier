@@ -104,6 +104,7 @@ Two sinusoidal waves are given at the input of the multiplier. Each input having
 [3]	Alejandro Diaz-Sanchez, Juan Carlos Mateus-Ardila, Gregorio Zamora-Mejia, Alejandra Diaz-Armendariz, Jose Miguel Rocha-Perez, Luis Armando Moreno-Coria,” A four quadrant high-speed CMOS analog multiplier based on the flipped voltage follower cell” AEU - International Journal of Electronics and Communications,Volume 130, 2021. ISSN 1434-8411
 
 [4]	S. Satyanarayana, Y. Tsividis and H. P. Graf, "A reconfigurable analog VLSI neural network chip" in Advances in Neural Information Processing Systems 2, CA, San Mateo:Morgan Kaufmann, vol. 2, pp. 758-768, 1990.
+
 [5]	N.Chasta, S. Chouhan and Y. Kumar, “Analog VLSI Implementation of Neural Network Architecture for Signal Processing”,International Journal of VLSI Design & Comunication System, Vol.3, No.2, April 2012. 
 
 
