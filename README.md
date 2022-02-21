@@ -3,11 +3,20 @@
  * Reference circuit details
  * Reference circuit
  * Tools Used
- * Netlist
  * Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
  * Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
  * Schematic for neuron activation function [5]
  * Simulation Result for the four quadrant Analog Multiplier
+     	Transient Analysis of the Multiplier
+     
+     	Frequency Response of the multiplier
+     
+     	Power Dissipation of the multiplier
+     
+     	Input noise of the multiplier
+     
+     	Output noise of the multiplier
+ * Netlist for the analog multiplier
  * Simulation result for neuron activation function
  * Results and Analysis
  * References
@@ -47,7 +56,34 @@ Thus, the analog multiplier is designed where the gain can be changed by changin
 # Tools used
 •	Synopsis custom compiler tool 
 
-# Netlist
+
+
+# Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
+![image](https://user-images.githubusercontent.com/99953169/154834742-fb7912ec-922e-4f1e-ab07-9029f0fe7248.png)
+
+# Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
+![image](https://user-images.githubusercontent.com/99953169/154834767-c19d9b75-02fb-40d7-8baa-5962bcdeba93.png)
+
+# Schematic for neuron activation function [5]
+![image](https://user-images.githubusercontent.com/99953169/154944774-dcfb1edc-8665-464e-88f4-00c739f6c5f3.png)
+
+# Simulation Result for the four quadrant Analog Multiplier
+# 1-Transient Analysis of the Multiplier
+![image](https://user-images.githubusercontent.com/99953169/154834864-29fbf296-64e6-4351-ad36-28464224c797.png)
+
+# 2-Frequency Response of the multiplier
+![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
+
+# 3-Power Dissipation of the multiplier
+![image](https://user-images.githubusercontent.com/99953169/154849104-9d096605-1d4b-41f3-a75c-ca79e9051597.png)
+
+# 4-Input noise of the multiplier
+![image](https://user-images.githubusercontent.com/99953169/154898540-967dbe30-2d64-42ab-9850-1376714d9572.png)
+
+# 5-Output noise of the multiplier
+![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
+
+# Netlist for the Analog multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154834653-b53ced23-fd79-44a3-abed-89a147e979c2.png)
 
 *  Generated for: PrimeSim
@@ -108,31 +144,6 @@ v4 net16 gnd! dc=1.8
 
 
 .option primesim_output=wdf
-
-# Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
-![image](https://user-images.githubusercontent.com/99953169/154834742-fb7912ec-922e-4f1e-ab07-9029f0fe7248.png)
-
-# Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
-![image](https://user-images.githubusercontent.com/99953169/154834767-c19d9b75-02fb-40d7-8baa-5962bcdeba93.png)
-
-# Schematic for neuron activation function [5]
-![image](https://user-images.githubusercontent.com/99953169/154944774-dcfb1edc-8665-464e-88f4-00c739f6c5f3.png)
-
-# Simulation Result for the four quadrant Analog Multiplier
-# 1-Transient Analysis of the Multiplier
-![image](https://user-images.githubusercontent.com/99953169/154834864-29fbf296-64e6-4351-ad36-28464224c797.png)
-
-# 2-Frequency Response of the multiplier
-![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
-
-# 3-Power Dissipation of the multiplier
-![image](https://user-images.githubusercontent.com/99953169/154849104-9d096605-1d4b-41f3-a75c-ca79e9051597.png)
-
-# 4-Input noise of the multiplier
-![image](https://user-images.githubusercontent.com/99953169/154898540-967dbe30-2d64-42ab-9850-1376714d9572.png)
-
-# 5-Output noise of the multiplier
-![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
 
 # Simulation result for neuron activation function
 ![image](https://user-images.githubusercontent.com/99953169/154945008-fe29ef07-2826-4bcf-a19f-d9380afadd6d.png)
