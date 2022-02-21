@@ -1,5 +1,5 @@
 # Table of contents
- * [Introduction]("https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=References-,Introduction,-An%20analog%20multiplier")
+ * ![Introduction](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=References-,Introduction,-An%20analog%20multiplier)
  * Reference circuit details
  * Reference circuit
  * Tools Used
