@@ -18,6 +18,16 @@
 
 •	Simulation Result for the four quadrant Analog Multiplier
 
+	Transient Analysis of the Multiplier
+
+	Frequency Response of the multiplier
+
+	Power Dissipation of the multiplier
+
+	Input noise of the multiplier
+
+	Output noise of the multiplier
+
 •	Simulation result for neuron activation function
 
 •	Results and Analysis
