@@ -95,7 +95,7 @@ Thus, the analog multiplier is designed where the gain can be changed by changin
 # Results and Analysis
 Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated. After simulation it is concluded that the multiplier has bandwidth and power dissipation of 71.6 MHz  and 14.0300 µW respectively. A neuron activation function(NAF) is also simulated using 1.8 volt power supply. Using NAF and analog multiplier an analog neural network can also be designed.
 
-![image](https://user-images.githubusercontent.com/99953169/154982035-e3209082-da3a-413d-9084-e3fb7ace92df.png)
+![image](https://user-images.githubusercontent.com/99953169/154982532-d36851a1-3435-4b76-abc0-44d09f26882e.png)
 
 # References
 [1]	N. Kiatwarin, W. Ngamkham and W. Kiranon, “A Compact Low Voltage CMOS Four Quadrant Analog Multiplier”, ECTI International Conference,2007
