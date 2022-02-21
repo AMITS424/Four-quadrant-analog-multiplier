@@ -17,7 +17,7 @@
      	[Input noise of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=4%2DInput%20noise%20of%20the%20multiplier)
      
      	[Output noise of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=5%2DOutput%20noise%20of%20the%20multiplier)
- * Netlist for the analog multiplier
+ * [Netlist for the analog multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=of%20the%20multiplier-,Netlist%20for%20the%20Analog%20multiplier,-Generated%20for%3A%20PrimeSim)
  * Simulation result for neuron activation function
  * Results and Analysis
  * References
