@@ -6,7 +6,7 @@
 
 •	Reference circuit
 
-•	Synopsis custom compiler tool 
+•	Tools used
 
 •	Netlist
 
