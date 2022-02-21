@@ -1,24 +1,14 @@
 # Table of contents
-
-•	Introduction
-
-•	Reference circuit details
-
-•	Reference circuit
-
-•	Tools used
-
-•	Netlist
-
-•	Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
-
-•	Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
-
-•	Schematic for neuron activation function [5]
-
-•	Simulation Result for the four quadrant Analog Multiplier
-
-    	Transient Analysis of the Multiplier
+ * [Introduction](#Introduction)
+ * [Reference circuit details](#Reference circuit details)
+ * [Reference circuit](#Reference circuit)
+ * [Tools Used](# Tools used)
+ * [Netlist](#Netlist)
+ * [Schematic of Four Quadrant Analog Multiplier based on square rooting circuit](#Schematic of Four Quadrant Analog Multiplier based on square rooting circuit)
+ * [Symbol of Four Quadrant Analog Multiplier based on square rooting circuit](#Symbol of Four Quadrant Analog Multiplier based on square rooting circuit)
+ * [Schematic for neuron activation function [5]](#Schematic for neuron activation function [5])
+ * [Simulation Result for the four quadrant Analog Multiplier](#Simulation Result for the four quadrant Analog Multiplier)
+ *  	Transient Analysis of the Multiplier
 
     	Frequency Response of the multiplier
 
@@ -27,12 +17,9 @@
     	Input noise of the multiplier
 
     	Output noise of the multiplier
-
-•	Simulation result for neuron activation function
-
-•	Results and Analysis
-
-•	References
+ * [Simulation result for neuron activation function](#Simulation result for neuron activation function)
+ * [Results and Analysis](#Results and Analysis)
+ * [References](#References)
 
 # Introduction
 An analog multiplier is an important component for many signal processing algorithms, artificial neural network mapped into hardware. It has been proven that analog multipliers are used for application like neural network where we don’t require a very high level of accuracy. Analog multipliers provide high synapse density and high computational speed than a digital multiplier. A CMOS four quadrant analog multiplier[1] design is shown in this report. The designed circuit is simulated using 28nm CMOS process with 1.8 volt supply voltage. It is applicable for a wide range of applications like variable-gain amplifiers, peak detectors, modulators, phase detectors, artificial neural networks etc.
