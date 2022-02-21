@@ -111,4 +111,11 @@ Two sinusoidal waves are given at the input of the multiplier. Each input having
 
 [5]	N.Chasta, S. Chouhan and Y. Kumar, “Analog VLSI Implementation of Neural Network Architecture for Signal Processing”,International Journal of VLSI Design & Comunication System, Vol.3, No.2, April 2012. 
 
+# Acknowledgements
+* [Kunal Ghosh](https://github.com/kunalg123),Founder,VSD Corp.Pvt.Ltd
+* [IIT Hyderabad](https://iith.ac.in/)
+* [Synopsis](https://www.synopsys.com/)
+
+# Author 
+[Amit Sarkar](https://github.com/AMITS424)
 
