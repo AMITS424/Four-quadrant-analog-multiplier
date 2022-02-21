@@ -1,6 +1,6 @@
 # Table of contents
- * [Introduction](#Introduction)
- * [Reference circuit details](#Reference circuit details)
+ * Introduction
+ * Reference circuit details
  * Reference circuit
  * Tools Used
  * Netlist
