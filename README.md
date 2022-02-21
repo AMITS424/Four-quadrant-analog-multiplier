@@ -14,7 +14,7 @@
      
      	[Power Dissipation of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=3%2DPower%20Dissipation%20of%20the%20multiplier)
      
-     	Input noise of the multiplier
+     	[Input noise of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=4%2DInput%20noise%20of%20the%20multiplier)
      
      	Output noise of the multiplier
  * Netlist for the analog multiplier
