@@ -2,7 +2,7 @@
  * [Introduction](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=References-,Introduction,-An%20analog%20multiplier)
  * [Reference circuit details](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=neural%20networks%20etc.-,Reference%20circuit%20details,-Above%20figure%20shows)
  * [Reference circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=dimensions%20of%20MOSFET-,Reference%20circuit,-Tools%20used)
- * Tools Used
+ * [Tools Used](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=Reference%20circuit-,Tools%20used,-%E2%80%A2%20Synopsis%20custom%20compiler)
  * Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
  * Symbol of Four Quadrant Analog Multiplier based on square rooting circuit
  * Schematic for neuron activation function [5]
