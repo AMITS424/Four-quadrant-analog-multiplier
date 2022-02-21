@@ -1,6 +1,6 @@
 # Table of contents
 
-https://github.com/AMITS424/Four-quadrant-analog-multiplier#introduction
+•	Introduction
 
 •	Reference circuit details
 
