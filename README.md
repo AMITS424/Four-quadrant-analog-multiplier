@@ -10,7 +10,7 @@
  
      	[Transient Analysis of the Multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=1%2DTransient%20Analysis%20of%20the%20Multiplier)
      
-     	Frequency Response of the multiplier
+     	[Frequency Response of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=2%2DFrequency%20Response%20of%20the%20multiplier)
      
      	Power Dissipation of the multiplier
      
