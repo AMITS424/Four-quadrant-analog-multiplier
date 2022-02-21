@@ -1,6 +1,6 @@
 # Table of contents
  * [Introduction](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=References-,Introduction,-An%20analog%20multiplier)
- * [Reference circuit details](
+ * [Reference circuit details](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=neural%20networks%20etc.-,Reference%20circuit%20details,-Above%20figure%20shows)
  * Reference circuit
  * Tools Used
  * Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
