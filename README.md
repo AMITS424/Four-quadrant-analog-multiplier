@@ -1,10 +1,10 @@
 # Table of contents
  * [Introduction](#Introduction)
- * [Reference circuit details](#Reference circuit details)
- * [Reference circuit](#Reference circuit)
- * [Tools Used](# Tools used)
- * [Netlist](#Netlist)
- * [Schematic of Four Quadrant Analog Multiplier based on square rooting circuit](#Schematic of Four Quadrant Analog Multiplier based on square rooting circuit)
+ * Reference circuit details
+ * Reference circuit
+ * Tools Used
+ * Netlist
+ * Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
  * [Symbol of Four Quadrant Analog Multiplier based on square rooting circuit](#Symbol of Four Quadrant Analog Multiplier based on square rooting circuit)
  * [Schematic for neuron activation function [5]](#Schematic for neuron activation function [5])
  * [Simulation Result for the four quadrant Analog Multiplier](#Simulation Result for the four quadrant Analog Multiplier)
