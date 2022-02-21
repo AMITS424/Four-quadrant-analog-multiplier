@@ -20,7 +20,7 @@
  * [Netlist for the analog multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=of%20the%20multiplier-,Netlist%20for%20the%20Analog%20multiplier,-Generated%20for%3A%20PrimeSim)
  * [Simulation result for neuron activation function](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=option%20primesim_output%3Dwdf-,Simulation%20result%20for%20neuron%20activation%20function,-Results%20and%20Analysis)
  * [Results and Analysis](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=neuron%20activation%20function-,Results%20and%20Analysis,-Two%20sinusoidal%20waves)
- * References
+ * [References](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=also%20be%20designed.-,References,-%5B1%5D%20N.%20Kiatwarin)
 
 # Introduction
 An analog multiplier is an important component for many signal processing algorithms, artificial neural network mapped into hardware. It has been proven that analog multipliers are used for application like neural network where we don’t require a very high level of accuracy. Analog multipliers provide high synapse density and high computational speed than a digital multiplier. A CMOS four quadrant analog multiplier[1] design is shown in this report. The designed circuit is simulated using 28nm CMOS process with 1.8 volt supply voltage. It is applicable for a wide range of applications like variable-gain amplifiers, peak detectors, modulators, phase detectors, artificial neural networks etc.
