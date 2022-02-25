@@ -13,6 +13,8 @@ This repositary presents the design of Four-quadrant Analog multiplier based on 
  * [Simulation Result for the four quadrant Analog Multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=activation%20function%20%5B5%5D-,Simulation%20Result%20for%20the%20four%20quadrant%20Analog%20Multiplier,-1%2DTransient%20Analysis)
  
      	[Transient Analysis of the Multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=1%2DTransient%20Analysis%20of%20the%20Multiplier)
+     ![image](https://user-images.githubusercontent.com/99953169/155647492-9eb22eb9-74b9-4786-9663-064894a4833d.png)
+
      
      	[Frequency Response of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=2%2DFrequency%20Response%20of%20the%20multiplier)
      
