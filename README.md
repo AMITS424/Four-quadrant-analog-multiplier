@@ -75,7 +75,7 @@ Thus, the analog multiplier is designed where the gain can be changed by changin
 ![image](https://user-images.githubusercontent.com/99953169/154834767-c19d9b75-02fb-40d7-8baa-5962bcdeba93.png)
 
 ## Schematic for neuron activation function [5]
-![image](https://user-images.githubusercontent.com/99953169/154944774-dcfb1edc-8665-464e-88f4-00c739f6c5f3.png)
+![image](https://user-images.githubusercontent.com/99953169/155649295-d42f7fa6-f211-4cbc-ad20-85705eee1114.png)
 
 ## Simulation Result for the four quadrant Analog Multiplier
 ## 1-Transient Analysis of the Multiplier
