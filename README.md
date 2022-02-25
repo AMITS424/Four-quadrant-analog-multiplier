@@ -103,7 +103,7 @@ Thus, the analog multiplier is designed where the gain can be changed by changin
 [Netlist](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/netlist.pdf)
 
 ## Simulation result for neuron activation function
-![image](https://user-images.githubusercontent.com/99953169/154945008-fe29ef07-2826-4bcf-a19f-d9380afadd6d.png)
+![image](https://user-images.githubusercontent.com/99953169/155652342-651504a0-faa0-49fb-85b6-116bdb619bf1.png)
 
 ## Results and Analysis
 Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated. After simulation it is concluded that the multiplier has bandwidth and power dissipation of 71.6 MHz  and 14.0300 µW respectively. A neuron activation function(NAF) is also simulated using 1.8 volt power supply. Using NAF and analog multiplier an analog neural network can also be designed.
