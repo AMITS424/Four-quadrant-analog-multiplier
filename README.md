@@ -10,6 +10,7 @@ This repositary presents the design of Four-quadrant Analog multiplier based on 
  * [Schematic of Four Quadrant Analog Multiplier based on square rooting circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=custom%20compiler%20tool-,Schematic%20of%20Four%20Quadrant%20Analog%20Multiplier%20based%20on%20square%20rooting%20circuit,-The%20MOSFET%20model)
  * [Symbol of Four Quadrant Analog Multiplier based on square rooting circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=circuit%20is%2010-,Symbol%20of%20Four%20Quadrant%20Analog%20Multiplier%20based%20on%20square%20rooting%20circuit,-Schematic%20for%20neuron)
  * [Schematic for neuron activation function [5]](https://github.com/AMITS424/Four-quadrant-analog-multiplier#schematic-for-neuron-activation-function-5)
+ * [Symbol for neuron activation function[5]](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=Symbol%20of%20neuron%20activation%20function%20%5B5%5D)
  * [Simulation Result for the four quadrant Analog Multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier#:~:text=activation%20function%20%5B5%5D-,Simulation%20Result%20for%20the%20four%20quadrant%20Analog%20Multiplier,-1%2DTransient%20Analysis)
  
      	[Transient Analysis of the Multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=1%2DTransient%20Analysis%20of%20the%20Multiplier)
