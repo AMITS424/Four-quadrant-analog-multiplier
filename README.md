@@ -34,6 +34,7 @@ An analog multiplier is an important component for many signal processing algori
 
 ## Reference circuit details
 ![image](https://user-images.githubusercontent.com/99953169/154965322-2d433055-cfe8-4427-aa94-4554680ad83e.png)
+![image](https://user-images.githubusercontent.com/99953169/155887159-a1a9fcee-daaf-489c-a6a6-86cf150ee39b.png)
 
 Above figure shows a square rooting circuit, setting M3-M8 to be identical, the currents Ic and Id are found to be
 
