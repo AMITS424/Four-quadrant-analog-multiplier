@@ -86,7 +86,7 @@ For input signal 2
 
 ![image](https://user-images.githubusercontent.com/99953169/155888581-f58c2681-c48d-445d-ab22-8446e42731ff.png)
 
-Input-referred noise is the noise voltage or current that, when applied to the input of the noiseless circuit, generates the same output noise as the actual circuit does.The above waveforms shows the input noise for both input sinusoidal signals.
+The input-referred noise indicates how much the input signal is corrupted by the circuit’s noise, i.e., how small an input the circuit can detect with acceptable SNR. The above waveforms shows the input noise for both input sinusoidal signals.
 
 ## 5-Output noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
