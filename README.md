@@ -41,9 +41,9 @@ An analog multiplier is an important component for many signal processing algori
 ![image](https://user-images.githubusercontent.com/99953169/154834613-8453b693-053d-4557-ab17-f26a795fcdae.png)
 
 ## Tools used
-•	Synopsis custom compiler tool 
+•	### Synopsis custom compiler tool : 
 
-
+The Synopsys Custom Design Platform is a unified suite of design and verification tools that accelerates the development of robust analog and mixed-signal designs. The platform features Custom Compiler™, a fast, easy-to-use design, and layout solution, PrimeSim™ Continuum, which delivers industry-leading circuit simulation performance, and best-in-class technologies for parasitic extraction, reliability analysis, and physical verification.
 
 ## Schematic of Four Quadrant Analog Multiplier based on square rooting circuit
 * The MOSFET model chosen is TT model from 28nm PDK. Aspect ratio(W/L) of pMOS is 0.03um/0.24um & for nMOS it is 0.03um/0.12um
