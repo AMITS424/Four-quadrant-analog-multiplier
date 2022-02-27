@@ -4,7 +4,7 @@ This repositary presents the design of Four-quadrant Analog multiplier based on 
 
 ## Table of contents
  * [Introduction](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=Author-,Introduction,-An%20analog%20multiplier)
- * [Reference circuit details](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=neural%20networks%20etc.-,Reference%20circuit%20details,-Above%20figure%20shows)
+ * [Reference circuit details](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=neural%20networks%20etc.-,Reference%20circuit%20details,-Reference%20circuit)
  * [Reference circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=dimensions%20of%20MOSFET-,Reference%20circuit,-Tools%20used)
  * [Tools Used](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=Reference%20circuit-,Tools%20used,-%E2%80%A2%20Synopsis%20custom%20compiler)
  * [Schematic of Four Quadrant Analog Multiplier based on square rooting circuit](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=custom%20compiler%20tool-,Schematic%20of%20Four%20Quadrant%20Analog%20Multiplier%20based%20on%20square%20rooting%20circuit,-The%20MOSFET%20model)
