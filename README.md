@@ -75,6 +75,8 @@ From the above waveform showing the frequency response of the multiplier ,it can
 ## 3-Power Dissipation of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/155887765-dae080cf-ec35-4819-a57e-038357bb5fc3.png)
 
+The power dissipation of the circuit can be calculated as P= Idc * Vdc. After doing dc analysis of the multiplier circuit we have got all the operating point of the circuit. And it can be easily concluded that the power dissipation of the multiplier circuit is 14.0300 uW.
+
 ## 4-Input noise of the multiplier
 For input signal 1
 
