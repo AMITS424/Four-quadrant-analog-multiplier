@@ -105,6 +105,8 @@ The netlist for the neuron activation function is [Netlist](https://github.com/A
 ## Simulation result for neuron activation function
 ![image](https://user-images.githubusercontent.com/99953169/155652342-651504a0-faa0-49fb-85b6-116bdb619bf1.png)
 
+Activation function decides, whether a neuron should be activated or not by calculating weighted sum and further adding bias with it. The purpose of the activation function is to introduce non-linearity into the output of a neuron. Above figure shows the simulation result of neuron activation circuit and it is similar to Tanh function also knows as Tangent Hyperbolic function.
+
 ## Results and Analysis
 Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated. After simulation it is concluded that the multiplier has bandwidth and power dissipation of 71.6 MHz  and 14.0300 µW respectively. A neuron activation function(NAF) is also simulated using 1.8 volt power supply. Using NAF and analog multiplier an analog neural network can also be designed.
 
