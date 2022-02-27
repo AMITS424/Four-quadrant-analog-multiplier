@@ -65,6 +65,8 @@ The Synopsys Custom Design Platform is a unified suite of design and verificatio
 ![image](https://user-images.githubusercontent.com/99953169/154834864-29fbf296-64e6-4351-ad36-28464224c797.png)
 ![image](https://user-images.githubusercontent.com/99953169/155647633-ea3ff7b7-b222-4b98-91e0-dea1712f336a.png)
 
+Two sinusoidal waves are given at the input of the multiplier. Each input having 100 mV amplitude and the frequencies are 50 MHz and 1 MHz respectively. At the output modulated wave is generated.
+
 ## 2-Frequency Response of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
 
