@@ -83,7 +83,7 @@ For input signal 2
 ## 5-Output noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
 
-## Netlist for the Analog multiplier
+## Netlist 
 ![image](https://user-images.githubusercontent.com/99953169/154834653-b53ced23-fd79-44a3-abed-89a147e979c2.png)
 ![image](https://user-images.githubusercontent.com/99953169/155887878-82a9afa2-6994-4db1-8bbf-299e90afa991.png)
 
