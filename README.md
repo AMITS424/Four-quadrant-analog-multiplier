@@ -23,7 +23,7 @@ This repositary presents the design of Four-quadrant Analog multiplier based on 
      
      	[Output noise of the multiplier](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=5%2DOutput%20noise%20of%20the%20multiplier)
  * [Netlist ](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=of%20the%20multiplier-,Netlist,-The%20netlist%20for)
- * [Simulation result for neuron activation function](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=Netlist-,Simulation%20result%20for%20neuron%20activation%20function,-Results%20and%20Analysis)
+ * [Simulation result for neuron activation function](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=function%20is%20Netlist-,Simulation%20result%20for%20neuron%20activation%20function,-Results%20and%20Analysis)
  * [Results and Analysis](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=neuron%20activation%20function-,Results%20and%20Analysis,-Two%20sinusoidal%20waves)
  * [References](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=also%20be%20designed.-,References,-%5B1%5D%20N.%20Kiatwarin)
  * [Acknowledgements](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/README.md#:~:text=2%2C%20April%202012.-,Acknowledgements,-Kunal%20Ghosh%2CFounder)
