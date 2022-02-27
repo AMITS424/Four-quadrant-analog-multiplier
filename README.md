@@ -72,7 +72,13 @@ The Synopsys Custom Design Platform is a unified suite of design and verificatio
 ![image](https://user-images.githubusercontent.com/99953169/155887765-dae080cf-ec35-4819-a57e-038357bb5fc3.png)
 
 ## 4-Input noise of the multiplier
+For input signal 1
+
 ![image](https://user-images.githubusercontent.com/99953169/154898540-967dbe30-2d64-42ab-9850-1376714d9572.png)
+
+For input signal 2
+
+![image](https://user-images.githubusercontent.com/99953169/155888581-f58c2681-c48d-445d-ab22-8446e42731ff.png)
 
 ## 5-Output noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898631-17f51d0b-307d-49f3-bb22-dbb604e0e26d.png)
