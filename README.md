@@ -79,8 +79,10 @@ An analog multiplier is an important component for many signal processing algori
 
 ## Netlist for the Analog multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154834653-b53ced23-fd79-44a3-abed-89a147e979c2.png)
+![image](https://user-images.githubusercontent.com/99953169/155887878-82a9afa2-6994-4db1-8bbf-299e90afa991.png)
 
-The netlist is given in [Netlist](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/netlist.pdf)
+
+The netlist for the multiplier circuit is [Netlist](https://github.com/AMITS424/Four-quadrant-analog-multiplier/blob/main/netlist.pdf)
 
 ## Simulation result for neuron activation function
 ![image](https://user-images.githubusercontent.com/99953169/155652342-651504a0-faa0-49fb-85b6-116bdb619bf1.png)
