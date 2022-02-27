@@ -69,6 +69,7 @@ Two sinusoidal waves are given at the input of the multiplier. Each input having
 
 ## 2-Frequency Response of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
+
 From the above waveform showing the frequency response of the multiplier ,it can be concluded that the -3dB bandwidth of the multiplier is 71.6 MHz.
 
 ## 3-Power Dissipation of the multiplier
