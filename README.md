@@ -69,7 +69,7 @@ An analog multiplier is an important component for many signal processing algori
 ![image](https://user-images.githubusercontent.com/99953169/154899140-9dd461f1-4e65-4328-80da-401c0687f7a2.png)
 
 ## 3-Power Dissipation of the multiplier
-![image](https://user-images.githubusercontent.com/99953169/154849104-9d096605-1d4b-41f3-a75c-ca79e9051597.png)
+![image](https://user-images.githubusercontent.com/99953169/155887765-dae080cf-ec35-4819-a57e-038357bb5fc3.png)
 
 ## 4-Input noise of the multiplier
 ![image](https://user-images.githubusercontent.com/99953169/154898540-967dbe30-2d64-42ab-9850-1376714d9572.png)
