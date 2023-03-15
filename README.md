@@ -129,5 +129,5 @@ Two sinusoidal waves are given at the input of the multiplier. Each input having
 * [Synopsis](https://www.synopsys.com/)
 
 ## Author 
-[Amit Sarkar](https://github.com/AMITS424),M.tech in Microelectronics and VLSI
+[Amit Sarkar](https://github.com/AMITS424),PhD(EE) IIT Delhi 
 
